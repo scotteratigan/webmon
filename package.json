@@ -1,0 +1,25 @@
+{
+  "name": "webmon",
+  "version": "1.0.0",
+  "description": "Monitor your websites and email when any go down.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scotteratigan/webmon.git"
+  },
+  "author": "Scott Ratigan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scotteratigan/webmon/issues"
+  },
+  "homepage": "https://github.com/scotteratigan/webmon#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "nodemailer": "^6.1.0"
+  }
+}
