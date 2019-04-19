@@ -38,7 +38,7 @@
    "https://www.secondwebsitetomonitor.com"<br/>
    ]<br/>
    }<br/>
-   \_note: pingFrequencySeconds is how often the sites should be checked. 10 minutes / 600 is a good default\*
+   _note: pingFrequencySeconds is how often the sites should be checked. 10 minutes / 600 is a good default_
 
 1. Run the app:
    `node app`
